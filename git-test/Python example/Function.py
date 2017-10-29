@@ -9,3 +9,6 @@ def conver_to_far(cell):
 
 def square(val1,val2):
     print('The square is ', val1 * val2)
+
+def perimeter(val1,val2):
+    print('The perimeter is ', (val1 + val2) * 2)
